@@ -1,2 +1,2 @@
 # Tools
-This repository contains useful tools for modelling and geospatial analysis.
+This repository contains useful simple tools for volcanic flow modelling and geospatial analysis.
